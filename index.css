@@ -48,6 +48,7 @@ header {
     font-size: 2rem;
     line-height: 3rem;
     font-weight: 800;
+    text-shadow: 2px 2px 2px rgba(0,0,0,0.3);
 }
 
 
@@ -56,6 +57,7 @@ header {
     line-height: 1.5rem;
     font-weight: 400;
     font-style: none;
+    text-shadow: 2px 2px 2px rgba(0,0,0,0.3);
 }
 
 main {
@@ -74,7 +76,7 @@ main {
     border: 0.3rem solid #B5E48C;
     border-radius: 1rem;
     flex-basis: 256px;
-
+    box-shadow: 5px 5px 5px -1px rgba(0, 0, 0, 0.3);
 }
 
 .project-cell:hover {
@@ -96,6 +98,7 @@ main {
     font-size: 1.5rem;
     line-height: 2.25rem;
     font-weight: 800;
+    text-shadow: 2px 2px 2px rgba(0,0,0,0.3);
 }
 
 .project-description {
@@ -103,6 +106,7 @@ main {
     line-height: 1.5rem;
     font-weight: 400;
     font-style: none;
+    text-shadow: 2px 2px 2px rgba(0,0,0,0.3);
 }
 
 .project-image {
@@ -135,6 +139,7 @@ footer {
     line-height: 1.5rem;
     font-weight: 200;
     font-style: none;
+    text-shadow: 2px 2px 2px rgba(0,0,0,0.3);
 }
 
 .footer-image {
