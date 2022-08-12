@@ -31,8 +31,8 @@ header {
     align-items: center;
     padding: 0.5rem;
     width: 100%;
-    background-color: #52B69A;
-    border: 0.3rem solid #76C893;
+    background-color: #76C893;
+    border: 0.3rem solid #52B69A;
     border-top-left-radius: 1rem;
     border-top-right-radius: 1rem;
 }
@@ -72,16 +72,16 @@ main {
 }
 
 .project-cell {
-    background-color: #D9ED92;
-    border: 0.3rem solid #B5E48C;
+    background-color: #B5E48C;
+    border: 0.3rem solid #D9ED92;
     border-radius: 1rem;
     flex-basis: 256px;
     box-shadow: 5px 5px 5px -1px rgba(0, 0, 0, 0.3);
 }
 
 .project-cell:hover {
-    background-color: #B5E48C;
-    border-color: #D9ED92;
+    background-color: #D9ED92;
+    border: 0.3rem solid #B5E48C;
 }
 
 .project-link {
@@ -118,8 +118,8 @@ main {
 
 footer {
     width: 100%;
-    background-color: #52B69A;
-    border: 0.3rem solid #76C893;
+    background-color: #76C893;
+    border: 0.3rem solid #52B69A;
     padding: 0.5rem;
     border-bottom-left-radius: 1rem;
     border-bottom-right-radius: 1rem;
