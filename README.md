@@ -1,1 +1,1 @@
-<a href="https://baz-react-projects.app" target="_blank">https://baz-react-projects.app</a>
+<a href="https://baz-react-projects.netlify.app" target="_blank">https://baz-react-projects.netlify.app</a>
